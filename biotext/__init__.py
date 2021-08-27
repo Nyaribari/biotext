@@ -1,0 +1,1 @@
+from .t_bios import text_labels, info, version
