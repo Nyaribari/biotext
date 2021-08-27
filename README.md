@@ -1,4 +1,4 @@
-# biospaCy
+# biotext
 
 A Python Natural Language Processing package for biological data. Built on spaCy.
 
